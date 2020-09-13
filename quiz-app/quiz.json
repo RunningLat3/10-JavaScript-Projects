@@ -1,0 +1,107 @@
+[
+    {
+        "question": "How hot is the surface of the sun?",
+        "answers": [
+            {
+                "iscorrect": 0,
+                "answer": "1,233 K"
+            },
+            {
+                "iscorrect": 1,
+                "answer": "5,778 K"
+            },
+            {
+                "iscorrect": 0,
+                "answer": "12,130 K"
+            },
+            {
+                "iscorrect": 0,
+                "answer": "101,300 K"
+            }
+        ]
+    },
+    {
+        "question": "What is the capital of Philippines?",
+        "answers": [
+            {
+                "iscorrect": 0,
+                "answer": "Cebu City"
+            },
+            {
+                "iscorrect": 0,
+                "answer": "Ilocos City"
+            },
+            {
+                "iscorrect": 0,
+                "answer": "Quezon City"
+            },
+            {
+                "iscorrect": 1,
+                "answer": "Manila City"
+            }
+        ]
+    },
+    {
+        "question": "What is the most popular programming language?",
+        "answers": [
+            {
+                "iscorrect": 0,
+                "answer": "JavaScript"
+            },
+            {
+                "iscorrect": 1,
+                "answer": "Python"
+            },
+            {
+                "iscorrect": 0,
+                "answer": "C#"
+            },
+            {
+                "iscorrect": 0,
+                "answer": "Java"
+            }
+        ]
+    },
+    {
+        "question": "In a website browser address bar, what does \"www\" stand for?",
+        "answers": [
+            {
+                "iscorrect": 0,
+                "answer": "World War Web"
+            },
+            {
+                "iscorrect": 1,
+                "answer": "World Wide Web"
+            },
+            {
+                "iscorrect": 0,
+                "answer": "World Width Wise"
+            },
+            {
+                "iscorrect": 0,
+                "answer": "Wise Wizard Web"
+            }
+        ]
+    },
+    {
+        "question": "How many ribs are in a human body?",
+        "answers": [
+            {
+                "iscorrect": 0,
+                "answer": "22"
+            },
+            {
+                "iscorrect": 0,
+                "answer": "25"
+            },
+            {
+                "iscorrect": 1,
+                "answer": "24"
+            },
+            {
+                "iscorrect": 0,
+                "answer": "26"
+            }
+        ]
+    }
+]
